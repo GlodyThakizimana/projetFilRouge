@@ -80,9 +80,10 @@ a{
 };
 
 
+
 .imagehuile{
     width: 100%;
-    height:70vw;
+    background-size:cover;
 }
 
 .active > a {
