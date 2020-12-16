@@ -1,3 +1,6 @@
+html{
+    font-size: 2rem;
+}
 body{
     background-color: rgba(244, 238, 232, 1);
 }
@@ -15,7 +18,6 @@ body{
 .imageee{
     background: url("apropo1.jpg")no-repeat center center fixed;
     background-size: cover;
-    height: 35em;
 }
 h1{
     font-family: 'Glass Antiqua', cursive;
@@ -25,11 +27,23 @@ h1{
 h2{
     font-family: 'Glass Antiqua', cursive;
     color:#B28E68;
-    font-size: 4em;
 }
 h3{
+    font-family: 'Glass Antiqua', cursive;
     color: rgba(164, 138, 134, 1);
 }
+
+h4{
+    font-family: 'Glass Antiqua', cursive;
+    color: rgba(164, 138, 134, 1);
+}
+
+h5{
+    font-family: 'Montserrat', cursive;
+    color: rgba(164, 138, 134, 1);
+    font-weight: bold;
+}
+
 .nav{
     background-color:rgba(164, 138, 134, 1)
 }
@@ -39,12 +53,10 @@ footer{
 }
 p{
     font-family: 'Montserrat', sans-serif;
-    font-size: 1em;
+  
    
 }
-.intro{
-    font-size:1.5em;
-}
+
 
 a{
     text-decoration: none;
@@ -52,4 +64,14 @@ a{
 }
 .color{
     background-color:rgba(164, 138, 134, 1);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 35vw;
+    object-fit: cover;
+}
+.imagehuile{
+    width: 100%;
+    height:70vw;
 }
