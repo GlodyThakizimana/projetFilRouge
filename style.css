@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(244, 238, 232, 1);
+}
+.image{
+    background: url("couverture1.jpg") no-repeat center center fixed;
+    background-size: cover;
+    
+    height: 35em;
+}
+.imagee{
+    background: url("nappy2.jpg")no-repeat center center fixed;
+    background-size: cover;
+    height: 35em;
+}
+h1{
+    font-family: 'Glass Antiqua', cursive;
+    color:white;
+    
+}
+h2{
+    font-family: 'Glass Antiqua', cursive;
+    color:#B28E68;
+    font-size: 4em;
+}
+h3{
+    color: rgba(164, 138, 134, 1);
+}
+.nav{
+    background-color:rgba(164, 138, 134, 1)
+}
+footer{
+    background-color:rgba(164, 138, 134, 1);
+    
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+   
+}
+.intro{
+    font-size:1.5em;
+}
+
+a{
+    text-decoration: none;
+    color:rgba(195, 105, 37, 1);
+}
+.color{
+    background-color:rgba(164, 138, 134, 1);
+}
