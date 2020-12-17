@@ -1,6 +1,4 @@
-html{
-    font-size: 2rem;
-}
+
 body{
     background-color: rgba(244, 238, 232, 1);
 }
@@ -88,5 +86,10 @@ a{
 
 .active > a {
     color: white !important;  
+}
+
+.bouton{
+    background-color: #B28E68 !important;
+    border-color: #B28E68 !important;
 }
 
