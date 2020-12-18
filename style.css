@@ -37,7 +37,8 @@ h4{
 }
 
 h5{
-    font-family: 'Montserrat', cursive;
+    font-family: 'Montserrat', sans-serif;
+
     color: rgba(164, 138, 134, 1);
     font-weight: bold;
 }
@@ -47,8 +48,10 @@ h5{
 }
 footer{
     background-color:rgba(164, 138, 134, 1);
+    width: 100%;
     
 }
+
 p{
     font-family: 'Montserrat', sans-serif;
   
