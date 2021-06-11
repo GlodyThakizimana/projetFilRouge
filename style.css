@@ -2,6 +2,7 @@
 body{
     background-color: rgba(244, 238, 232, 1);
 }
+
 .image{
     background: url("couverture1.jpg") no-repeat center center fixed;
     background-size: cover;
@@ -79,8 +80,6 @@ a{
         object-fit: cover;
     }
 };
-
-
 
 .imagehuile{
     width: 100%;
